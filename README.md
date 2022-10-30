@@ -1,16 +1,16 @@
-# pubspec
+First and first, a mobile app for farmers needs to be 
+developed with a very minimal degree of complexity 
+and maintained so that it speaks to farmers in their own 
+language.
 
-A new Flutter project.
+Here, we lower the financial risk that farmers 
+experience, such as loss and other significant 
+financial concerns.
 
-## Getting Started
+Our team will have a marketing team to persuade 
+individuals to purchase from this application 
+because everything these days needs a marketing strategy and a marketing to enhance the market cap.
 
-This project is a starting point for a Flutter application.
+Collecting dairy from farmers, quality checking, packaging and delivering to the customers is assigned with considering the expiry of the product and time restrictions.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+this was developed using Flutter and firebase 
