@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "340292211992",
+    "firebase_url": "https://virtup-4d0e1-default-rtdb.firebaseio.com",
+    "project_id": "virtup-4d0e1",
+    "storage_bucket": "virtup-4d0e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340292211992:android:4002d587437dae916d3a6d",
+        "android_client_info": {
+          "package_name": "com.example.pubspec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340292211992-1t96v6v3kc2jad2gu20m4n4f4nk9lmn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN3H9RkPT7IvKEJXwWP74OooJlFz-eg-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340292211992-1t96v6v3kc2jad2gu20m4n4f4nk9lmn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
